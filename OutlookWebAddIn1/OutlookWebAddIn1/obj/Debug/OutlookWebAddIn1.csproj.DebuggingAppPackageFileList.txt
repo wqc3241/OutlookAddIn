@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\OutlookWebAddIn1Manifest.xml
+D:\OutlookAddin\OutlookWebAddIn1\OutlookWebAddIn1\bin\Debug\OutlookWebAddIn1.debugapp

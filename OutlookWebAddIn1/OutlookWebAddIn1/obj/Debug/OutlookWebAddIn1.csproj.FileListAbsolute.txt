@@ -1,0 +1,2 @@
+D:\OutlookAddin\OutlookWebAddIn1\OutlookWebAddIn1\obj\Debug\OutlookWebAddIn1.csprojAssemblyReference.cache
+D:\OutlookAddin\OutlookWebAddIn1\OutlookWebAddIn1\obj\Debug\OutlookWebAddIn1.csproj.CoreCompileInputs.cache
